@@ -1,5 +1,5 @@
 <?php 
-define $unidad="Z:";
+define ('UNIDAD', 'Z:');
 define('ROOT_PATH', $_SERVER['DOCUMENT_ROOT'].'/cobranzasCiberWifi/');
 define('CONTROLLER_PATH', ROOT_PATH.'src/controlador/');
 define('MODEL_PATH', ROOT_PATH.'src/modelo/');
